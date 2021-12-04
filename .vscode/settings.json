@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "ratio": "cpp",
+        "condition_variable": "cpp",
+        "filesystem": "cpp",
+        "*.icc": "cpp",
+        "new": "cpp",
+        "complex": "cpp",
+        "cmath": "cpp"
+    }
+}

@@ -1,5 +1,5 @@
 
-# Cepc_dual
+# Sipm_dual
 
 GEANT4-based simulation of a single bar for DualReadout purpose.
 
